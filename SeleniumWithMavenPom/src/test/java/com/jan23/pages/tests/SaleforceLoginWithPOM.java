@@ -70,7 +70,7 @@ public class SaleforceLoginWithPOM extends BaseTest{
 		String actualUserName=loginpage.getTextusernameverification();
 		String expectedUserName="rani.ch@adcd.com";
 		Assert.assertEquals(expectedUserName, actualUserName);
-		
+		logger.info("valid user is logged in");
 	}
 	
 	@Test
