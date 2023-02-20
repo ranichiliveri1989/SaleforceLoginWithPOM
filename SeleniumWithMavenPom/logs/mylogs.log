@@ -1,0 +1,88 @@
+20230219 23:14:56 INFO  [main] commontests.BaseTest BaseTest.java44 - Start the test
+20230219 23:20:35 INFO  [main] commontests.BaseTest BaseTest.java44 - Start the test
+20230219 23:20:35 INFO  [main] commontests.BaseTest BaseTest.java51 - Creating driver
+20230219 23:20:35 INFO  [main] commontests.BaseTest BaseTest.java70 - Creating Chrome
+20230219 23:20:41 INFO  [main] commontests.BaseTest BaseTest.java63 - driver created
+20230219 23:27:08 INFO  [main] commontests.BaseTest BaseTest.java44 - Start the test
+20230219 23:27:09 INFO  [main] commontests.BaseTest BaseTest.java51 - Creating driver
+20230219 23:27:09 INFO  [main] commontests.BaseTest BaseTest.java70 - Creating Chrome
+20230219 23:27:12 INFO  [main] commontests.BaseTest BaseTest.java63 - driver created
+20230219 23:27:19 INFO  [main] tests.AutomationTests AutomationTests.java33 - <<<< driver 1null
+20230219 23:27:22 INFO  [main] tests.AutomationTests AutomationTests.java36 - <<<< driver 2null
+20230219 23:27:22 INFO  [main] tests.AutomationTests AutomationTests.java37 - <<<< homepage 2com.jan23.pages.home.HomePage@285f38f6
+20230219 23:37:22 INFO  [main] commontests.BaseTest BaseTest.java44 - Start the test
+20230219 23:37:22 INFO  [main] commontests.BaseTest BaseTest.java51 - Creating driver
+20230219 23:37:22 INFO  [main] commontests.BaseTest BaseTest.java70 - Creating Chrome
+20230219 23:37:25 INFO  [main] commontests.BaseTest BaseTest.java63 - driver created
+20230219 23:37:32 INFO  [main] tests.AutomationTests AutomationTests.java33 - <<<< driver 1ChromeDriver: chrome on WINDOWS (0ec1c3d2ba484689613fcd8fec002581)
+20230219 23:37:35 INFO  [main] tests.AutomationTests AutomationTests.java36 - <<<< driver 2ChromeDriver: chrome on WINDOWS (0ec1c3d2ba484689613fcd8fec002581)
+20230219 23:37:35 INFO  [main] tests.AutomationTests AutomationTests.java37 - <<<< homepage 2com.jan23.pages.home.HomePage@285f38f6
+20230219 23:41:42 INFO  [main] commontests.BaseTest BaseTest.java45 - Start the test
+20230219 23:41:42 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:41:42 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:41:46 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:41:56 INFO  [main] tests.AutomationTests AutomationTests.java35 - <<<< driver 2ChromeDriver: chrome on WINDOWS (bd5e85f1dfbe6421d8a755f659419435)
+20230219 23:41:56 INFO  [main] tests.AutomationTests AutomationTests.java36 - <<<< homepage 2com.jan23.pages.home.HomePage@7d44a19
+20230219 23:41:56 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:41:57 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:41:57 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:41:59 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:42:13 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:42:14 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:42:14 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:42:16 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:42:24 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:42:24 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:42:24 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:42:27 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:42:32 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:42:33 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:42:33 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:42:36 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:42:41 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:50:23 INFO  [main] commontests.BaseTest BaseTest.java45 - Start the test
+20230219 23:50:23 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:50:23 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:50:26 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:50:36 INFO  [main] tests.AutomationTests AutomationTests.java35 - <<<< driver 2ChromeDriver: chrome on WINDOWS (f0e44093ef9d9440e012c96d0a479a7f)
+20230219 23:50:36 INFO  [main] tests.AutomationTests AutomationTests.java36 - <<<< homepage 2com.jan23.pages.home.HomePage@56dfab87
+20230219 23:50:49 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:50:50 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:50:50 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:50:53 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:51:07 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:51:08 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:51:08 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:51:10 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:51:18 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:51:19 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:51:19 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:51:21 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:51:26 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:51:27 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:51:27 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:51:30 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:51:35 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:53:40 INFO  [main] commontests.BaseTest BaseTest.java45 - Start the test
+20230219 23:53:40 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:53:40 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:53:44 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:53:54 INFO  [main] tests.SaleforceLoginWithPOM SaleforceLoginWithPOM.java35 - <<<< driver 2ChromeDriver: chrome on WINDOWS (fc21eec1f05966efc58630f458860947)
+20230219 23:53:54 INFO  [main] tests.SaleforceLoginWithPOM SaleforceLoginWithPOM.java36 - <<<< homepage 2com.jan23.pages.home.HomePage@56dfab87
+20230219 23:53:55 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:53:56 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:53:56 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:53:59 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:54:21 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:54:22 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:54:22 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:54:24 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:54:31 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:54:31 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:54:31 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:54:34 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:54:39 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:54:40 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:54:40 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:54:42 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:54:47 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-19T23:53:39 PST" name="Suite" finished-at="2023-02-19T23:54:48 PST" duration-ms="69879">
+    <groups>
+    </groups>
+    <test started-at="2023-02-19T23:53:39 PST" name="Test" finished-at="2023-02-19T23:54:48 PST" duration-ms="69879">
+      <class name="com.jan23.pages.tests.SaleforceLoginWithPOM">
+        <test-method is-config="true" signature="setUpBeforeTest()[pri:0, instance:com.jan23.pages.tests.SaleforceLoginWithPOM@2b662a77]" started-at="2023-02-19T23:53:39 PST" name="setUpBeforeTest" finished-at="2023-02-19T23:53:40 PST" duration-ms="958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTest -->
+        <test-method is-config="true" signature="driverSetup()[pri:0, instance:com.jan23.pages.tests.SaleforceLoginWithPOM@2b662a77]" started-at="2023-02-19T23:53:40 PST" name="driverSetup" finished-at="2023-02-19T23:53:48 PST" duration-ms="7835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method signature="Login_Script()[pri:0, instance:com.jan23.pages.tests.SaleforceLoginWithPOM@2b662a77]" started-at="2023-02-19T23:53:48 PST" name="Login_Script" finished-at="2023-02-19T23:53:55 PST" duration-ms="6728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Script -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.jan23.pages.tests.SaleforceLoginWithPOM@2b662a77]" started-at="2023-02-19T23:53:55 PST" name="close" finished-at="2023-02-19T23:53:56 PST" duration-ms="558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="driverSetup()[pri:0, instance:com.jan23.pages.tests.SaleforceLoginWithPOM@2b662a77]" started-at="2023-02-19T23:53:56 PST" name="driverSetup" finished-at="2023-02-19T23:54:03 PST" duration-ms="6610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method signature="checkRememberMe()[pri:0, instance:com.jan23.pages.tests.SaleforceLoginWithPOM@2b662a77]" started-at="2023-02-19T23:54:03 PST" name="checkRememberMe" finished-at="2023-02-19T23:54:21 PST" duration-ms="18527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRememberMe -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.jan23.pages.tests.SaleforceLoginWithPOM@2b662a77]" started-at="2023-02-19T23:54:21 PST" name="close" finished-at="2023-02-19T23:54:22 PST" duration-ms="421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="driverSetup()[pri:0, instance:com.jan23.pages.tests.SaleforceLoginWithPOM@2b662a77]" started-at="2023-02-19T23:54:22 PST" name="driverSetup" finished-at="2023-02-19T23:54:28 PST" duration-ms="6635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method signature="forgotPassword()[pri:0, instance:com.jan23.pages.tests.SaleforceLoginWithPOM@2b662a77]" started-at="2023-02-19T23:54:28 PST" name="forgotPassword" finished-at="2023-02-19T23:54:31 PST" duration-ms="2037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassword -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.jan23.pages.tests.SaleforceLoginWithPOM@2b662a77]" started-at="2023-02-19T23:54:31 PST" name="close" finished-at="2023-02-19T23:54:31 PST" duration-ms="405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="driverSetup()[pri:0, instance:com.jan23.pages.tests.SaleforceLoginWithPOM@2b662a77]" started-at="2023-02-19T23:54:31 PST" name="driverSetup" finished-at="2023-02-19T23:54:38 PST" duration-ms="6556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method signature="loginErrorMessageTc1()[pri:0, instance:com.jan23.pages.tests.SaleforceLoginWithPOM@2b662a77]" started-at="2023-02-19T23:54:38 PST" name="loginErrorMessageTc1" finished-at="2023-02-19T23:54:39 PST" duration-ms="1265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginErrorMessageTc1 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.jan23.pages.tests.SaleforceLoginWithPOM@2b662a77]" started-at="2023-02-19T23:54:39 PST" name="close" finished-at="2023-02-19T23:54:40 PST" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="driverSetup()[pri:0, instance:com.jan23.pages.tests.SaleforceLoginWithPOM@2b662a77]" started-at="2023-02-19T23:54:40 PST" name="driverSetup" finished-at="2023-02-19T23:54:46 PST" duration-ms="6597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method signature="wrongCredentials()[pri:0, instance:com.jan23.pages.tests.SaleforceLoginWithPOM@2b662a77]" started-at="2023-02-19T23:54:46 PST" name="wrongCredentials" finished-at="2023-02-19T23:54:47 PST" duration-ms="974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongCredentials -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.jan23.pages.tests.SaleforceLoginWithPOM@2b662a77]" started-at="2023-02-19T23:54:48 PST" name="close" finished-at="2023-02-19T23:54:48 PST" duration-ms="444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="teardownAfterTest()[pri:0, instance:com.jan23.pages.tests.SaleforceLoginWithPOM@2b662a77]" started-at="2023-02-19T23:54:48 PST" name="teardownAfterTest" finished-at="2023-02-19T23:54:48 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownAfterTest -->
+      </class> <!-- com.jan23.pages.tests.SaleforceLoginWithPOM -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
